@@ -8,7 +8,7 @@ When comparing 9.11 and 9.9, the decimal part should be compared. 0.11 is greate
 
 
 
-
+# Overview
 - **Multimodal Use Case.ipynb**: Demonstrates various use cases of Llama 3.2's multimodal capabilities, such as interpreting images and solving visual reasoning tasks.
 - **Multimodality Experiment of Llama 3.2.ipynb**: Contains experiments showcasing advanced image reasoning abilities and how Llama 3.2 handles different visual inputs.
 - **Tokenization Experimentation.ipynb**: Explores the use of the tiktoken tokenizer with Llama, highlighting its expanded 128k vocabulary and multilingual support.
